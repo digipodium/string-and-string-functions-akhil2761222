@@ -1,0 +1,1 @@
+print("to move to newline '\\n' is used.")
